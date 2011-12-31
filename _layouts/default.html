@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>{{ page.title }}</title>
+
+        <link rel="stylesheet" type="text/css" href="css/reset.css" />
+        <link rel="stylesheet" type="text/css" href="css/screen.css" />
+        <link rel="stylesheet" type="text/css" href="css/monokai.css" />
+
+        <link href='http://fonts.googleapis.com/css?family=Ubuntu:300' rel='stylesheet' type='text/css'>
+
+    </head>
+
+    <body>
+
+        <div id="container">
+
+            <div class="header">
+                <a href="/" class="logo">Adam Strawson</a>
+
+                <ul class="nav">
+                    <li><a href="/">Discussion</a></li>
+                    <li><a href="/talk">Talk</a></li>
+                    <li><a href="http://twitter.com/adamstrawson" target="_blank">Twitter</a> | <a href="http://github.com/adamstrawson" target="_blank">GitHub</a> | <a href="http://adamstrawson.github.com/resume/" target="_blank">Resume</a></li>
+                </ul>
+
+                <p>
+                    Developer, Thinker, Occasional Do-er.
+                </p>
+            </div>
+
+            <div class="main">
+                {{ content }}
+            </div>
+        </div>
+    </body>
+</html>

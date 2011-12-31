@@ -1,0 +1,4 @@
+title: Adam Strawson
+permalink: /posts/:title
+markdown: rdiscount
+pygments: true
