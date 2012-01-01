@@ -1,4 +1,4 @@
-                             ---
+---
 layout: post
 title: "Setting up SSL on a Linux server"
 ---
