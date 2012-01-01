@@ -16,10 +16,10 @@ You'll need to sign up for an SSL certificate, For basic, nothing fancy SSL's I 
 
 Now, you'll need to make sure you have the following packages installed on your server.
 
-`<code>` 
+
 	apt-get install openssl;
 	a2enmod ssl;
-`</code>`   
+
 
 If you've signed up with [Namecheap](http://www.namecheap.com/ssl-certificates/comodo.aspx?aff=26395), once you've purchased your SSL the will ask you for a CSR
 
