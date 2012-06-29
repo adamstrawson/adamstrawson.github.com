@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "APIs, What are they, and why do we care"
+title: "APIs, what are they, and why do we care"
 ---
 
 At Create. every Friday the entire company takes part in 'Innovation Day', which is a day dedicated to working on anything you want outside of your daily tasks. This can usually consist of anything from learning something you wouldn't normally learn, to a new feature on the application. You can read more about how we do our Innovation day on [Simons Blog](http://www.simonkimber.co.uk/blog/read_31208/creatovating-creating-a-culture-of-innovation-at-create.html).
@@ -21,4 +21,4 @@ I'm quite keen on doing more talks this year, and so being able to put the above
 
 Feel free to use the slides within your own company, and if you'd like me to send the Keynote files, drop me an email.
 
-Shameless plug, We're looking for a PHP developer at Create! [View Job](http://www.create.net/jobs/1/php-mysql-web-developer.phtml)
+Shameless plug, We're looking for a PHP developer at Create!  [View Job](http://www.create.net/jobs/1/php-mysql-web-developer.phtml)
