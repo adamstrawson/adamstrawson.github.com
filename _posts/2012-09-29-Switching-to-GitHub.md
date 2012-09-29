@@ -41,4 +41,4 @@ And that's all you need to do.
 
 GitHub is an amazing service, I have used it for the past few years on personal projects and I'm excited to be using it at work too.
 
-If you have any suggestions or improvements to the above, please do (get in touch)[http://adamstrawson.com/talk], or Tweet me (@adamstrawson)[http://twitter.com/adamstrawson]
+If you have any suggestions or improvements to the above, please do [get in touch](http://adamstrawson.com/talk), or Tweet me [@adamstrawson](http://twitter.com/adamstrawson)
