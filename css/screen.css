@@ -6,86 +6,230 @@
         Blog Stylesheet
 */
 
-body {
-    background: #EDEAE3;
-    color: #34302D;
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-    font-size: 14px;
-    line-height: 26px;
-}
-
-a {
-    color: #86C543;
-}
-
-a:hover {
-    text-decoration: none;
-}
-
-img {
-    border: 10px solid #ccc;
-    text-align: center;
-}
-
-h1 a {
-    color: #FCB040;
-    text-decoration: none;
-}
-
-h1, h2 {
-    border-bottom: 1px solid #ddd;
+body { 
+    background: #F0F0F0;
     font-family: 'Ubuntu', sans-serif;
-    font-size: 60px;
-    font-weight: normal;
-    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.5);
+    font-weight: 300;
 }
 
-h1 {
-    color: #fcb040;
-    font-size: 32px;
-    font-weight: bold;
-    margin: 0 0 3px 0;
-    padding: 0 0 20px 0;
+header {
+    height: 180px;
+    width: 100%;
+    background: #ccc url(../images/bg.jpg) repeat-x top left;
 }
 
-h2 {
-    color: #4cc6f3;
-    font-size: 30px;
-    margin: 0 0 8px 0;
-    padding: 0 0 8px 0;
+#content {
+    width: 740px;
+    padding: 50px 60px 30px;
+    margin: 0 auto;
+    margin-top: -40px;
+    background: white;
+    border-radius: 3px;
+    border-color: #000;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, .2);
+    margin-bottom: 10px;
 }
 
-h2 a {
+.icon-calendar {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    padding-right: 5px;
+    line-height: 14px;
+    vertical-align: text-top;
+    background-image: url("../images/glyphicons-halflings.png");
+    background-position: -192px -120px;
+    background-repeat: no-repeat;
+}
+
+.icon-comment {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    padding-right: 5px;
+    line-height: 14px;
+    vertical-align: text-top;
+    background-image: url("../images/glyphicons-halflings.png");
+    background-position: -240px -120px;
+    background-repeat: no-repeat;
+}
+.icon-email {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    padding-right: 5px;
+    line-height: 14px;
+    vertical-align: text-top;
+    background-image: url("../images/email.png");
+    background-repeat: no-repeat;
+}
+.icon-twitter {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    padding-right: 5px;
+    line-height: 14px;
+    vertical-align: text-top;
+    background-image: url("../images/twitter.png");
+    background-repeat: no-repeat;
+}
+.icon-github {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    padding-right: 5px;
+    line-height: 14px;
+    vertical-align: text-top;
+    background-image: url("../images/github.png");
+    background-repeat: no-repeat;
+}
+.icon-linkedin {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    padding-right: 5px;
+    line-height: 14px;
+    vertical-align: text-top;
+    background-image: url("../images/linkedin.png");
+    background-repeat: no-repeat;
+}
+
+.comments a {
+    text-decoration: none;
+    color: #000;
+}
+
+#content span {
+    font-size: 12px;
+    opacity: .5;
+    margin-right: 10px;
+}
+
+#content h1 {
+    font-size: 36px;
+    font-weight: 300;
+    color: #FE4365;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+
+#content p {
+    margin-bottom: 20px;
+    line-height: 24px;
+}
+
+#content a {
+    color: #83AF9B;
+    text-decoration: none;
+}
+#content a:hover {
+    text-decoration: underline;
+}
+
+#posts li {
+    list-style: none;
+    border-bottom: 1px solid #F0F0F0;
+    height: 25px;
+    margin-bottom: 10px;
+}
+
+#posts li a {
+    text-decoration: none;
+    font-weight: 300;
+}
+
+#posts li h2 {
+    float: left;
+    width: 450px;
+    color: #FE4365;
+    max-width: 75%;
+    font-weight: 300;
+}
+#posts li span.date {
+    float: right;
+    width: 150px;
+    max-width: 25%;
+    text-align: right;
+    color: #000;
+}
+
+header a {
     text-decoration: none;
 }
 
-p {
-    margin: 0 0 14px 0;
+.wrapper {
+    width: 740px;
+    margin: 0 auto;
 }
 
-p:last-child {
-    margin: 0;
+.name {
+    float: left;
 }
-
-blockquote {
-    border: 1px solid #ccc;
-    background-color: #fafafa;
+.name a {
+    color: #fff;
+}
+.social {
+    float: right;
+    color: #fff;
+    font-weight: 300;
+    margin-top: 20px;
+}
+.social ul li {
+    width: 125px;
     font-size: 14px;
-    font-style: italic;
-    margin: 0 0 22px 0;
-    overflow: auto;
-    padding: 11px 15px 12px;
+    list-style: none;
+    border-bottom: 1px solid #CCC;
+    color: #FFF;
+    opacity: 0.8;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+}
+.social ul li a {
+    color: #FFF;
+}
+.social ul li a:hover {
+    text-decoration: underline;
+}
+header h1 {
+    opacity: 0.9;
+    font-size: 32px;
+    font-weight: 300;
+    padding-top: 40px;
+}
+header h2 {
+    opacity: 0.5;
+    font-size: 16px;
+    font-weight: 300;
+    padding-top: 5px;
 }
 
-code, pre {
-    font-family: Consolas, Menlo, "Courier New", monospace;
-    font-size: 14px;
+header .social {
+    float:right;
+}
+
+footer {
+    width: 850px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+footer p {
+    font-size: 10px;
+    text-align: right;
+    line-height: 16px;
+}
+
+#content ul, #content ol {
+    margin-left: 20px;
+}
+
+#content ul li, #content ol li {
+    padding-bottom: 12px;
 }
 
 pre {
-    background-color: #fafafa;
-    border: 1px solid #d5d5d5;
-    border-left: 10px solid #d5d5d5;
+    background-color: #FAFAFA;
+    border: 1px solid #D5D5D5;
+    border-left: 10px solid #D5D5D5;
     font-family: Consolas, Menlo, "Courier New", monospace;
     font-size: 14px;
     line-height: 20px;
@@ -93,160 +237,4 @@ pre {
     margin-left: -25px;
     overflow-x: auto;
     padding: 11px 15px 12px;
-}
-
-pre::-webkit-scrollbar {
-    height: 25px;
-}
-
-pre::-webkit-scrollbar-button:start,
-pre::-webkit-scrollbar-button:end {
-    display: none;
-}
-
-pre::-webkit-scrollbar-track-piece  {
-    background-color: #eee;
-}
-
-pre::-webkit-scrollbar-thumb {
-    background-color: #bbb;
-    border: 7px solid #eee;
-    -webkit-background-clip: padding-box;
-    -webkit-border-radius: 12px;
-}
-
-p code,
-li code {
-    border: 1px solid #ccc;
-    background-color: #fafafa;
-    font-size: 14px;
-    line-height: 20px;
-    padding: 1px 5px;
-    white-space: nowrap;
-}
-
-ul,
-ol {
-    list-style: inside;
-    margin: 0 0 22px 12px;
-}
-
-li {
-    margin: 0 0 5px 0;
-}
-
-#container {
-    width: 960px;
-    margin: 20px auto;
-    padding: 0;
-}
-
-.header {
-    font-size: 13px;
-    float: left;
-    padding: 0 0 20px 0;
-    width: 100%;
-}
-
-.header .logo {
-    color: #86C543;
-    font-family: 'Ubuntu', sans-serif;
-    font-size: 32px;
-    font-weight: bold;
-    text-decoration: none;
-    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.5);
-}
-
-.header p {
-    color: #666;
-    line-height: 20px;
-    margin: 0 0 10px 0;
-}
-
-.main {
-    background: #fff;
-    float: left;
-    padding: 20px;
-    width: 920px;
-    border: 6px solid rgba(230,230,230,0.5);
-}
-
-ul.nav {
-    float: right;
-    width: 200px;
-    margin: 0px 0 0px 0;
-    border-top :1px solid #ddd;
-}
-
-ul.nav li {
-    list-style-type: none;
-    margin: 0;
-    padding: 0px 0;
-    border-bottom: 1px solid #ddd;
-}
-
-ul.nav li a {
-    color: #333;
-    font-weight: bold;
-    text-decoration: none;
-}
-
-ul.nav li a:hover {
-    color: #000;
-}
-
-.related {
-    margin-top: 20px;
-}
-
-.related ul {
-    margin: 0;
-    padding: 0;
-}
-.related li {
-    border-bottom: 1px solid #ddd;
-    color: #777;
-    font-size: 14px;
-    line-height: 18px;
-    list-style: none;
-    margin: 0;
-    padding: 5px 0px;
-}
-
-.related li span.date {
-    float: right;
-}
-
-.related a {
-    text-decoration: none;
-}
-
-.related a:hover {
-    text-decoration: underline;
-}
-
-.authoring {
-    color: #777;
-    font-size: 18px;
-    margin: 5px 0 0 0;
-}
-
-a.email {
-    display: block;
-    padding: 10px 12px;
-    font-size: 14px;
-    text-decoration: none;
-    color: #fff;
-    background: #4cc6f3;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
-}
-
-a.email strong {
-    color: #fff;
-}
-
-a.email:hover strong {
-    text-decoration: underline;
 }
