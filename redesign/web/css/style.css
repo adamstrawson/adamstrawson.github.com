@@ -1,0 +1,66 @@
+body { 
+	background: #F0F0F0;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 300;
+}
+
+header {
+	height: 180px;
+	width: 100%;
+	background: #ccc url(../images/bg.jpg) repeat-x top left;
+}
+
+#content {
+	width: 740px;
+	padding: 50px 60px 30px;
+	margin: 0 auto;
+	margin-top: -40px;
+	background: white;
+	border-radius: 3px;
+	border-color: #000;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, .2);
+	margin-bottom: 40px;
+}
+
+.icon-calendar {
+	display: inline-block;
+	width: 14px;
+	height: 14px;
+	padding-right: 5px;
+	line-height: 14px;
+	vertical-align: text-top;
+	background-image: url("../images/glyphicons-halflings.png");
+	background-position: -192px -120px;
+	background-repeat: no-repeat;
+}
+
+.icon-comment {
+	display: inline-block;
+	width: 14px;
+	height: 14px;
+	padding-right: 5px;
+	line-height: 14px;
+	vertical-align: text-top;
+	background-image: url("../images/glyphicons-halflings.png");
+	background-position: -240px -120px;
+	background-repeat: no-repeat;
+}
+
+#content span {
+	font-size: 12px;
+	opacity: .5;
+	margin-right: 10px;
+}
+
+#content h1 {
+	font-size: 36px;
+	font-weight: 300;
+	color: #FE4365;
+	margin-bottom: 40px;
+	margin-top: 20px;
+}
+
+#content p {
+	margin-bottom: 40px;
+	line-height: 24px;
+}
