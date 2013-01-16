@@ -12,6 +12,10 @@ body {
     font-weight: 300;
 }
 
+strong {
+    font-weight: 500;
+}
+
 header {
     height: 180px;
     width: 100%;
@@ -94,7 +98,7 @@ header {
     background-repeat: no-repeat;
 }
 
-.comments a {
+#content .comments a {
     text-decoration: none;
     color: #000;
 }
@@ -175,7 +179,7 @@ header a {
     margin-top: 20px;
 }
 .social ul li {
-    width: 125px;
+    width: 130px;
     font-size: 14px;
     list-style: none;
     border-bottom: 1px solid #CCC;
