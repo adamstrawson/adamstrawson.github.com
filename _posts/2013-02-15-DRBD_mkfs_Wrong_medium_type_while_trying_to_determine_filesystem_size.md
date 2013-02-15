@@ -1,3 +1,8 @@
+---
+layout: post
+title: "DRBD & mkfs: Wrong medium type while trying to determine filesystem size"
+---
+
 # DRBD & mkfs: Wrong medium type while trying to determine filesystem size
 
 ## Issue
