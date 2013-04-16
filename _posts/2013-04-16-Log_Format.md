@@ -7,9 +7,9 @@ I came across a brilliant example of formatting logs, and posting it here not on
 
 The log format has a few specific goals:
 
-Be human readable.  
-Be machine parsable.  
-Be easy for sleepy ops folks to figure out why things are pear-shaped at 3:30AM using standard UNIXy tools like tail and grep.
+- Be human readable.  
+- Be machine parsable.  
+- Be easy for sleepy ops folks to figure out why things are pear-shaped at 3:30AM using standard UNIXy tools like tail and grep.
 
 The logging output looks like this:
 
