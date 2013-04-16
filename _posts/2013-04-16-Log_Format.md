@@ -14,13 +14,13 @@ Be easy for sleepy ops folks to figure out why things are pear-shaped at 3:30AM 
 The logging output looks like this:
 
 ```
-TRACE [2010-04-06 06:42:35,271] com.example.dw.Thing: Contemplating doing a thing.
-DEBUG [2010-04-06 06:42:35,274] com.example.dw.Thing: About to do a thing.
-INFO  [2010-04-06 06:42:35,274] com.example.dw.Thing: Doing a thing
-WARN  [2010-04-06 06:42:35,275] com.example.dw.Thing: Doing a thing
-ERROR [2010-04-06 06:42:35,275] com.example.dw.Thing: This may get ugly.
-! java.lang.RuntimeException: oh noes!
-! at com.example.dw.Thing.run(Thing.java:16)
+TRACE [2010-04-06 06:42:35,271] com.example.dw.Thing: Contemplating doing a thing.  
+DEBUG [2010-04-06 06:42:35,274] com.example.dw.Thing: About to do a thing.  
+INFO  [2010-04-06 06:42:35,274] com.example.dw.Thing: Doing a thing  
+WARN  [2010-04-06 06:42:35,275] com.example.dw.Thing: Doing a thing  
+ERROR [2010-04-06 06:42:35,275] com.example.dw.Thing: This may get ugly.  
+! java.lang.RuntimeException: oh noes!  
+! at com.example.dw.Thing.run(Thing.java:16)  
 !
 ```
 
