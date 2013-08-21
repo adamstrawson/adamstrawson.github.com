@@ -21,7 +21,7 @@ If you run the below within a git directory, it'll loop through all the remote b
 
 This will allow us to push all branches wither you have them cloned or not.
 
-	for branch in `git branch -a | grep remotes | grep -v HEAD | grep -v master`; do; git branch --track ${branch##*/} $branch; done;
+	for branch in `git branch -a | grep remotes | grep -v HEAD | grep -v master`; do git branch --track ${branch##*/} $branch; done
 
 **3) Mirror the repository onto GitHub.**
 
@@ -42,3 +42,5 @@ And that's all you need to do.
 GitHub is an amazing service, I have used it for the past few years on personal projects and I'm excited to be using it at work too.
 
 If you have any suggestions or improvements to the above, please do [get in touch](http://adamstrawson.com/talk), or Tweet me [@adamstrawson](http://twitter.com/adamstrawson)
+
+*Thanks to [Troy Harvey](https://twitter.com/troyharvey) for cleaning up the `for` cmd*
