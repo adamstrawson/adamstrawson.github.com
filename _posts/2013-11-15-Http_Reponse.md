@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quick HTTP response times"
+title: "Investigate HTTP response times"
 ---
 
 I was investigating some odd behaviour on [Smokeping](http://oss.oetiker.ch/smokeping/) and I wanted a quick way of finding HTTP response times for each step of the route.
