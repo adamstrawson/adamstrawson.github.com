@@ -242,3 +242,6 @@ pre {
     overflow-x: auto;
     padding: 11px 15px 12px;
 }
+.line-pre {
+    overflow: hidden;
+}
