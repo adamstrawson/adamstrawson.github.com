@@ -39,7 +39,7 @@ So, knowing what we needed to resolve, we decided to go with the following hardw
 * 1x Huawei AC6005 AP Controller
 * 5x Huawei AP6010 WLAN Access Points
 
-The Huawei Quidway is powerful enough to power our entire building, let alone our floor! It has capacity for 240 x 10 Gigabit POE ports, Maximum switching capacity to 5.12 Tbps. It also has improved reliability with fault detection, cooling and redundant power supplies. 
+The Huawei Quidway is powerful enough to power our entire building, let alone our floor! It has capacity for 240 x 10 Gigabit POE ports, Maximum switching capacity to 5.12 Tbps. It will also improve our reliability with fault detection, cooling, and redundant power supplies. 
 
 We've introduced a second Cisco 1941 router, one for each of our two ISP lines, set up with BGP failover should one ISP go down. We've also upgraded our ASA, running Cisco Prime Security Manager. 
 
