@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>http://adamstrawson.com/</loc>
+  <lastmod>2014-07-12T19:29:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://adamstrawson.com/contact/</loc>
+  <lastmod>2014-07-12T19:29:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://adamstrawson.com/posts/office-network-overfaul/</loc>
+  <lastmod>2014-07-12T19:29:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://adamstrawson.com/posts/Investigate_HTTP_response_times/</loc>
+  <lastmod>2014-07-12T19:29:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://adamstrawson.com/posts/Log_Format/</loc>
+  <lastmod>2014-07-12T19:29:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://adamstrawson.com/posts/DRBD_mkfs_Wrong_medium_type_while_trying_to_determine_filesystem_size/</loc>
+  <lastmod>2014-07-12T19:29:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://adamstrawson.com/posts/Switching-to-GitHub/</loc>
+  <lastmod>2014-07-12T19:29:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://adamstrawson.com/posts/Talk-APIs-What-are-they-and-why-do-we-care/</loc>
+  <lastmod>2014-07-12T19:29:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://adamstrawson.com/posts/Setting-up-SSL-on-Linux/</loc>
+  <lastmod>2014-07-12T19:29:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://adamstrawson.com/posts/new-years-resolutions/</loc>
+  <lastmod>2014-07-12T19:29:02+00:00</lastmod>
+</url>
+</urlset>
