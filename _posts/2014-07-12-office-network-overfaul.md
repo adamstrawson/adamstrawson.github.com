@@ -63,7 +63,7 @@ This is how it looked during and after this:
 ![Rack Mid Empty](http://08b00f2c4f064c98329c-57bbaadb49146f0ad4c2f3b5b1587005.r9.cf3.rackcdn.com/mid-rack1.jpg =350x)
 ![Rack Mid Moved](http://08b00f2c4f064c98329c-57bbaadb49146f0ad4c2f3b5b1587005.r9.cf3.rackcdn.com/mid-rack2.jpg =350x)
 
-Mason IT arrived on the monday to do most of the grunt work, installing and configuring the new hardware, this lasted two days, and all with about 30mins downtime white everything was switched over to the new network. (The office didn't mind since there was a bake-off going on at the time!)
+Mason IT arrived on the monday to do most of the grunt work, installing and configuring the new hardware, this lasted two days, and all with about 30mins downtime while everything was switched over to the new network. (The office didn't mind since there was a bake-off going on at the time!)
 
 After all this, it resulted in our rack looking like this:
 
