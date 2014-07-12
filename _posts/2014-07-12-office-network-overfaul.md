@@ -22,7 +22,7 @@ Our previous network consisted of the following:
 
 All the Ethernet cabling was Cat5e.
 
-In terms of network topology, everything was pretty standard. All devices ran of the same VLAN, so this was another reason to upgrade as we were getting close to maxing out the subnet.
+In terms of network topology, everything was pretty standard. And all devices ran of the same VLAN, so this was another reason to upgrade as we were getting close to maxing out the subnet.
 
 The rack looked like this:
 
