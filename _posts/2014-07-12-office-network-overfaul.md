@@ -47,7 +47,7 @@ Our WLAN has improved drastically too, we've improved the coverage throughout th
 
 All the cabling has been replaced with colour coded CAT6 (Red for core/backbone, Yellow for Internal (Printers, etc), Green for general use (PCs, etc)).
 
-We've also introduced multiple vlans (PC's, Wireless, Servers, etc) and Wireless Networks (Guest, Staff, All-Access, plus an additional hidden network for our QA team which uses a standard DSL connection so they can test outside of our fibre line).
+We've also introduced multiple vlans (PC's, Wireless, Servers, etc) and multiple Wireless Networks (Guest, Staff, All-Access etc, plus an additional hidden network for our QA team which uses a standard DSL connection so they can test outside of our fibre line).
 
 ### The Upgrade
 
