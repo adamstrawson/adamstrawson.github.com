@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Office Network Overhaul"
+title: "Network Overhaul"
 ---
 At <a href="http://tsrmatters.co.uk" target="_blank">TSR Towers</a>, we recently undertook an infrastructure overhaul of the network that runs our office as we had outgrown our existing setup.
 
