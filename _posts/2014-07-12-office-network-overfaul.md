@@ -2,9 +2,9 @@
 layout: post
 title: "Office Network Overhaul"
 ---
-At [TSR Towers](http://tsrmatters.co.uk/), we recently undertook an infrastructure overhaul of the network that runs our office as we had outgrown our existing setup.
+At <a href="http://tsrmatters.co.uk" target="_blank">TSR Towers</a>, we recently undertook an infrastructure overhaul of the network that runs our office as we had outgrown our existing setup.
 
-The project was a team effort, consisting of [Mark & Chris from Mason IT](http://www.mason-it.co.uk/), [Rob from Support Time](http://www.supporttime.com/), Pete our CTO and myself.
+The project was a team effort, consisting of <a href="http://www.mason-it.co.uk/" target="_blank">Mark & Chris from Mason IT</a>, <a href="http://www.supporttime.com/" target="_blank">Rob from Support Time</a>, Pete our CTO and myself.
 
 ### Why Upgrade
 
