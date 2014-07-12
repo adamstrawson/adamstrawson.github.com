@@ -53,7 +53,7 @@ We've also introduced multiple vlans (PC's, Wireless, Servers, etc) and multiple
 
 The upgrade was going to take a few days to complete, so we had to plan it with zero downtime for the office staff. 
 
-On the Sunday, Rob, Pete, and Myself shut everything down, and moved all the exiting Cisco Switches to our rack that houses the internal servers, to make room for the Quidway going in the following day. We installed the additional router, and cleaned up all the existing cabling and changed how the power was distributed across the rack.
+On the Sunday when the office was closed, Rob, Pete, and Myself shut everything down, and moved all the exiting Cisco Switches to our rack that houses the internal servers, to make room for the Quidway going in the following day. We installed the additional router, and cleaned up all the existing cabling and changed how the power was distributed across the rack.
 
 This is how it looked during and after this:
 
