@@ -2,9 +2,6 @@
 layout: post
 title: "Office Network Overhaul"
 ---
-
-# Office Network Overhaul
-
 At [TSR Towers](http://tsrmatters.co.uk/), we recently undertook an infrastructure overhaul of the network that runs our office as we had outgrown our existing setup.
 
 The project was a team effort, consisting of [Mark & Chris from Mason IT](http://www.mason-it.co.uk/), [Rob from Support Time](http://www.supporttime.com/), Pete our CTO and myself.
