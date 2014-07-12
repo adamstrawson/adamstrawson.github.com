@@ -28,6 +28,8 @@ The rack looked like this:
 
 ![Rack Before](http://08b00f2c4f064c98329c-57bbaadb49146f0ad4c2f3b5b1587005.r9.cf3.rackcdn.com/pre-rack.jpg =350x)
 
+<small>The cardboard at the bottom of the rack was our Fibre Protection Device&copy;.</small>
+
 ### New Setup
 
 So, knowing what we needed to resolve, we decided to go with the following hardware:
