@@ -20,5 +20,3 @@ I'm a big lover of OpenSource projects, open data etc, in fact it's all I go on 
 I'm quite keen on doing more talks this year, and so being able to put the above slides together and present in front of the team was great fun, and I had positive feedback from the team about it too. I highly recommend others try this within their company. 
 
 Feel free to use the slides within your own company, and if you'd like me to send the Keynote files, drop me an email.
-
-Shameless plug, We're looking for a PHP developer at Create!  [View Job](http://www.create.net/jobs/1/php-mysql-web-developer.phtml)
